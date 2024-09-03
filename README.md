@@ -1,4 +1,4 @@
-# Emory Connect
+# Emory Connect (Retired)
 
 ## Introduction
 
