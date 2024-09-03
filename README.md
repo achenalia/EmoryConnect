@@ -1,4 +1,4 @@
-# Emory Connect Documentation
+# Emory Connect
 
 ## Introduction
 
