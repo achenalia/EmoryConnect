@@ -1,8 +1,6 @@
 # Emory Connect (Retired)
 
-
-https://github.com/user-attachments/assets/05080878-4003-4139-8293-2159c9b1ee83
-
+![image](https://github.com/user-attachments/assets/9483b5d5-939c-42ee-818d-dad0a57ede4d)
 
 ## Introduction
 
